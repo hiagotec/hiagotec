@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hiago Lima</h1>
 <h3 align="center">Quality Analyst</h3>
 
-- 🌱 I’m currently learning **Faculdade Analise Desenvolvimento de Sistemas cursando 4°Periodo, Curso Quality Analyst na escola Tripleten 100% concluido com Certificado**
+- 🌱 Atualmente estou aprendendo **Faculdade Analise Desenvolvimento de Sistemas cursando 4°Periodo, Curso de QA (Quality Analyst) na escola Tripleten 100% concluido com Certificado**
 
-- 💬 Ask me about **Testes Manuais, Testes de Regreção,Testes funcionais, Testes não funcionais, Testes Web, Testes de API, Documentação de Testes, Relatórios de Bugs, Ambiente de Teste, Qualidade de Software, Banco de Dados SQL**
+- 💬 Conhecimento em **Testes Manuais, Testes de Regreção,Testes funcionais, Testes não funcionais, Testes Web, Testes de API, Documentação de Testes, Relatórios de Bugs, Ambiente de Teste, Qualidade de Software, Banco de Dados SQL**
 
-- 📫 How to reach me **hiagolima920@gmail.com**
+- 📫 Como me encontrar **hiagolima920@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hiago-lima-a9b420311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw%2Bz2ov%2BQTQK%2F9BRIE%2FCvjw%3D%3D](https://www.linkedin.com/in/hiago-lima-a9b420311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw%2Bz2ov%2BQTQK%2F9BRIE%2FCvjw%3D%3D)
+- 📄 Conheça minhas experiências : linkedin.com/in/hiago-lima-a9b420311
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
