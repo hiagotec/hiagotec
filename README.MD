@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiago Lima</h1>
+<h1 align="center">Olá 👋, sou Hiago Lima</h1>
 <h3 align="center">Quality Analyst</h3>
 
 - 🌱 Atualmente estou aprendendo **Faculdade Analise Desenvolvimento de Sistemas cursando 4°Periodo, Curso de QA (Quality Analyst) na escola Tripleten 100% concluido com Certificado**
