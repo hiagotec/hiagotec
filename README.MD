@@ -7,7 +7,8 @@
 
 - 📫 Como me encontrar **hiagolima920@gmail.com**
 
-- 📄 Conheça minhas experiências : linkedin.com/in/hiago-lima-a9b420311
+- 📄 Conheça minhas experiências : https://www.linkedin.com/in/hiago-lima-a9b420311?
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
