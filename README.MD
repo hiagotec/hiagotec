@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou Hiago Lima</h1>
 <h3 align="center">Quality Analyst</h3>
 
-- 🌱 Atualmente estou aprendendo **Faculdade Analise Desenvolvimento de Sistemas cursando 4°Periodo, Curso de QA (Quality Analyst) na escola Tripleten 100% concluido com Certificado**
+- 🌱 Atualmente estou aprendendo **Faculdade Análise Desenvolvimento de Sistemas cursando 4°Periodo, Curso de QA (Quality Analyst) na escola Tripleten 100% concluido com Certificado**
 
-- 💬 Conhecimento em **Testes Manuais, Testes de Regreção,Testes funcionais, Testes não funcionais, Testes Web, Testes de API, Documentação de Testes, Relatórios de Bugs, Ambiente de Teste, Qualidade de Software, Banco de Dados SQL**
+- 💬 Conhecimento em **Testes Manuais, Testes de Regressão,Testes funcionais, Testes não funcionais, Testes Web, Testes de API, Documentação de Testes, Relatórios de Bugs, Ambiente de Teste, Qualidade de Software, Banco de Dados SQL**
 
 - 📫 Como me encontrar **hiagolima920@gmail.com**
 
