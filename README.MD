@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Hiago Lima</h1>
-<h3 align="center">Quality Analyst</h3>
+<h3 align="center">QA</h3>
 
 - 🌱 Trabalhei durante 10 anos como segurança na Serviplan, e resolvir sair e me dedicar aos estudos e Atualmente estou cusrsando a Faculdade Análise Desenvolvimento de Sistemas no 4°Periodo, e como tenho um foco especifico na carreira eu entrei no Curso de QA (Quality Analyst) na escola
 TripleTen, e atualmente está 100% concluído e com certificado.
