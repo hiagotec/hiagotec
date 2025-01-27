@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou Hiago Lima</h1>
 <h3 align="center">Quality Analyst</h3>
 
-- 🌱 Atualmente estou aprendendo **Faculdade Análise Desenvolvimento de Sistemas cursando 4°Periodo, "Curso de QA (Quality Analyst) na escola
-TripleTen, 100% concluído com certificado".**
+- 🌱 Trabalhei durante 10 anos como segurança na Serviplan, e resolvir sair e me dedicar aos estudos e Atualmente estou cusrsando a Faculdade Análise Desenvolvimento de Sistemas no 4°Periodo, e como tenho um foco especifico na carreira eu entrei no Curso de QA (Quality Analyst) na escola
+TripleTen, e atualmente está 100% concluído e com certificado.
 
 - 💬 Conhecimento em **Testes Manuais, Testes de Regressão,Testes funcionais, Testes não funcionais, Testes Web, Testes de API, Documentação de Testes, Relatórios de Bugs, Ambiente de Teste, Qualidade de Software, Banco de Dados SQL**
 
